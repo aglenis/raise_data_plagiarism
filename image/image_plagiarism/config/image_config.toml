@@ -1,0 +1,5 @@
+images_path = 'data/archive/images/oxford_images'
+evaluation_dict_path = 'data/archive/images/oxford_evaluation'
+save_evaluation_path = 'results'
+name_of_evaluation_file = 'evaluation_results_oxford.csv'
+
